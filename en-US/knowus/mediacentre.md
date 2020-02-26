@@ -21,10 +21,10 @@ name: Media Centre
 <table>
   <tr>
     <td rowspan="2"><a href="https://www.marineonline.com/news/252243897479069701" target="_blank"><img src="https://www.marineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e83ef410-88ec-11e9-94ba-cfe5b5eb586a.png" alt="Marine Online Launches World’s first “Integrated” Maritime eCommerce Platform" style="60%;"></a></td>
-    <td><a href="https://www.emarineonline.com/news/252243897479069701" target="_blank"><span style="font-weight:bold">MARINE ONLINE LAUNCHES WORLD’S FIRST“INTEGRATED” MARITIME ECOMMERCE PLATFORM</span></a></td>
+    <td><a href="https://www.marineonline.com/news/252243897479069701" target="_blank"><span style="font-weight:bold">MARINE ONLINE LAUNCHES WORLD’S FIRST“INTEGRATED” MARITIME ECOMMERCE PLATFORM</span></a></td>
   </tr>
   <tr>
-    <td>Marine Online Pte Ltd, launches the world’s first integrated maritime eCommerce platform - www.eMarineOnline.com. The platform has been designed for the highly specialized and fragmented shipping industry in mind ... <a href="https://www.marineonline.com/news/252243897479069701" target="_blank">READ MORE</a></td>
+    <td>Marine Online Pte Ltd, launches the world’s first integrated maritime eCommerce platform - www.marineonline.com. The platform has been designed for the highly specialized and fragmented shipping industry in mind ... <a href="https://www.marineonline.com/news/252243897479069701" target="_blank">READ MORE</a></td>
   </tr>
 </table>
 
