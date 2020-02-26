@@ -73,7 +73,7 @@ name: Site Map
   </tr>
   <tr>
     <td><b><a href="https://www.marineonline.com/maritime-news">News</a></b></td>
-    <td><a href="https://www.marineonline.com/maritime-news">News</a></td>
+    <td><a href="https://www.marineonline.com/maritime-news">Marinetime News</a></td>
     <td>a. Market<br>b. People<br>c. Report</td>
   </tr>
   <tr>
